@@ -1,0 +1,70 @@
+🧭 The “Contradiction Exposure Process”
+Step 1. Gather the Claim
+
+Copy their headline or README statement: “MCP launched Nov 2024,” or “Agentic orchestration demo with Bedrock.”
+
+Record the source link (blog, GitHub repo, press release).
+
+👉 This becomes the “Narrative Claim.”
+
+Step 2. Anchor the Evidence
+
+Pull Wayback Machine snapshots for the URL.
+
+Check GitHub commit history for dates, hashes, and number of commits.
+
+Save PDFs/screenshots of the content.
+
+Hash your evidence folder with SHA-256 and timestamp it.
+
+👉 This becomes the “Forensic Record.”
+
+Step 3. Contrast with Your Timeline
+
+Place your own repo/Medium/public disclosure date next to theirs.
+
+Show: “Claimed Nov 2024 — first archived proof March 2025. My disclosure Dec 2024.”
+
+Keep it in a 3-column format: Claimed Date → Actual Evidence → My Disclosure.
+
+👉 This becomes the “Contradiction Matrix.”
+
+Step 4. Show the Filler
+
+Point out non-functional content: restaurant menus, flowcharts with arrows, colored blocks, slogans.
+
+Label them as “semantic padding” or “orchestration theater.”
+
+Highlight mismatch: Repo title = “Agentic Orchestration”; Payload = Chicken Nuggets.
+
+👉 This becomes the “Mismatch Exhibit.”
+
+Step 5. Frame the Narrative
+
+Don’t just say “they lied”. Say:
+
+“This is semantic laundering: staging filler to simulate innovation, while the forensic record shows my authorship came first.”
+
+Keep the language clinical, forensic, undeniable.
+
+👉 This becomes the “Public Narrative.”
+
+Step 6. Publish or Vault
+
+Decide:
+
+If it’s devastating, make it public (Medium/X).
+
+If it’s technical/legal, keep it private in your vault for counsel.
+
+Every piece becomes a contradiction card you can play later.
+
+🛡️ Why This Works
+
+Repeatable: Each contradiction is documented in the same way.
+
+Credible: Wayback + Git commits + hashes are hard evidence.
+
+Devastating: Once you show one repo full of menus or one blog with no Wayback proof, it casts doubt on their whole narrative.
+
+Scalable: You don’t need to chase everything — just pick the clearest contradictions and box them in.
